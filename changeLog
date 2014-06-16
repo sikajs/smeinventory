@@ -1,0 +1,5 @@
+Start to use this file since 2011/11/22
+
+Date: 2011/11/22
+File: report/gen_monthly.php
+Desc: improve the performance, only delete and regenerate the result of this month and last month
