@@ -1,4 +1,3 @@
 
-unit_test/
-nbproject/
-unused/
+#ignore all tempory files
+*~
