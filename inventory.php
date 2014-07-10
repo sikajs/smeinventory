@@ -41,10 +41,12 @@ $(document).ready(function() {
   </div>
   <h3 class="ui-accordion-header"><a href="#">Stock management</a></h3>
   <div class="ui-accordion-content">
+      <!--
       <a href="inventory/outStock.php" target="right">Outstock warning</a>
       <p></p>
       <a href="inventory/shoppingList.php" target="right">Shopping list</a>
       <p></p>
+      -->
       <a href="inventory/restock.php" target="right">Restock item</a>
       <p></p>
       <a href="inventory/restock_hist.php" target="right">Restock history</a>
